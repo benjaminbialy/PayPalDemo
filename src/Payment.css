@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    margin: 0%;
+    height: 100vh;
+    max-width:100%;
+}
+.container--buttons{
+    display: inline-block;
+    width: 30%;
+    height: 80%;
+}
